@@ -1,0 +1,25 @@
+@media(min-width: 500px) {
+    body {
+        background-color: blue;
+    }
+}
+
+body {
+    padding-left: 10em;
+    padding-top: 0em;
+    padding-right: 10em;
+    padding-bottom: 0em;
+}
+
+p,
+li {
+    font-size: 1em;
+}
+
+#header {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
